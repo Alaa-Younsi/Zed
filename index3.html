@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Zed</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="style3.css">
+  <link rel="icon" href="Z-logo.png">
+</head>
+<body>
+
+  <div id="Head-text">
+    <p>Hi this is Marlowe, owner of Zed.</p>
+    <p>please give us more info about what you want.</p>
+  </div>
+
+  <div id="Form">
+    <form>
+
+      <div class="form-group">
+          <label id="Name-label" for="name">Name</label>
+          <input type="text" name="name" id="Name" class="form-control" placeholder="Enter your full name" required/>
+      </div>
+
+      <div class="form-group">
+         <label id="Email-label" for="email">Email</label>
+         <input type="email" name="email" id="Email" class="form-control" placeholder="Enter your Email" required/>
+       </div>
+
+       <div class="form-group">
+        <label id="Number-label" for="number">Phone Number (optional)</label>
+        <input type="number" name="age" id="Number" class="form-control" placeholder=" Enter your phone number"/>
+      </div>
+
+      <div class="form-group">
+          <label id="Name-label" for="Website">Description</label>
+          <input type="textarea" name="info" id="Info" class="form-control" placeholder="Describe what you want" required/>
+      </div>
+
+       <input type="submit" value="Submit" onclick="returnInput()">
+    </form>
+  </div>
+
+  <div id="Bottom-text">
+    <p>Please make sure to contact us in social media.</p>
+  </div>
+
+  <canvas id="a"></canvas>
+  <script  src="main2.js"></script>
+  <script src="input.js"></script>
+</body>
+</html>
