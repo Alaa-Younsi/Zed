@@ -72,6 +72,10 @@ The guiding principles were **technical demonstration** and **atmospheric creati
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 👤 Author's Reflection
 
 **Alaa Younsi - 2022**
