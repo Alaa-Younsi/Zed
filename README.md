@@ -6,6 +6,10 @@
 
 **Live Demo:** [https://alaa-younsi.github.io/Zed/](https://alaa-younsi.github.io/Zed/)
 
+![Homepage](screenshot1.png)
+![Services Section](screenshot2.png)
+![Blog Section](screenshot3.png)
+
 ---
 
 ## 🎯 Project Purpose & Significance
